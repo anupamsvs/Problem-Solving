@@ -1,5 +1,3 @@
-import com.sun.corba.se.impl.orbutil.concurrent.ReentrantMutex;
-
 import java.util.concurrent.locks.ReentrantLock;
 
 public class UsingMutexExample {
